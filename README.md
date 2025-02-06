@@ -90,3 +90,35 @@ Diverted: Indicates if the flight was diverted.
 FlightNum: Flight number.
 
 ID: Unique identifier for the flight record.
+
+![Alt Text](https://github.com/AhmeddMahmoudd98/Flight_Delays_Project/blob/main/Screenshot/Model.PNG)
+
+# Overview Report
+These KPIs provide a high-level overview of the airline's operational performance, including the total number of flights, carriers, airports, and the percentage of flights affected by different types of delays. The top airports and specific delay metrics are also highlighted.
+
+![Overview Report](https://github.com/AhmeddMahmoudd98/Flight_Delays_Project/blob/main/Screenshot/overview.PNG)
+
+# Airline Report
+
+These KPIs provide a snapshot of the airline's operational performance, including flight volumes, cancellations, airport operations, and regional and carrier-specific flight data.
+
+![Airline Report](https://github.com/AhmeddMahmoudd98/Flight_Delays_Project/blob/main/Screenshot/airline.PNG)
+
+# Delay Report 
+
+These KPIs provide insights into the different types of delays experienced by flights, their distribution across months, and the regions most affected by arrival delays.
+
+![Delay Report](https://github.com/AhmeddMahmoudd98/Flight_Delays_Project/blob/main/Screenshot/Delay.PNG)
+
+# Airport Report
+
+These KPIs provide insights into the operational metrics of airports, including the number of flights, delays, and cancellations, as well as the distribution of delays across different regions and airports.
+
+![Airport Report](https://github.com/AhmeddMahmoudd98/Flight_Delays_Project/blob/main/Screenshot/airport.PNG)
+
+
+
+
+
+
+
