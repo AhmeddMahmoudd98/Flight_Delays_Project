@@ -6,7 +6,7 @@ This project focuses on analyzing airline flight delays using a structured data 
 The data model consists of several dimensions and a fact table, each capturing specific aspects of flight operations:
 
 # Dimensions
-# Dim_AirportCodes
+## Dim_AirportCodes
 
 airport: Airport identifier.
 
@@ -16,7 +16,7 @@ country_code: Country code of the airport.
 
  region_name: Region or state where the airport is located.
 
-# Dim_Carrier
+## Dim_Carrier
 
 Carrier Name: Name of the airline carrier.
 
@@ -24,7 +24,7 @@ IATA Carrier Code: IATA code for the carrier.
 
 ICAO Carrier Code: ICAO code for the carrier.
 
-# DateDim
+## DateDim
 
 Date: Calendar date.
 
@@ -42,13 +42,13 @@ Quarter: Quarter of the year.
 
 Year: Year.
 
-# Dim_Cancelled
+## Dim_Cancelled
 
 CancellationCode: Code indicating the reason for cancellation.
 
 CancellationType: Description of the cancellation reason.
 
-# Fact Table
+## Fact Table
 Fact_DelayedFlights
 
 ActualElapsedTime: Actual elapsed time of the flight.
